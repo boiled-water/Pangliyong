@@ -45,4 +45,7 @@ public class ApplicationController {
         public String content;
         
     }
+    public static class q{
+        public String content;
+    }
 }
